@@ -72,16 +72,14 @@ Follow these steps to set up the project:
     npm run dev
     ```
 
-The application should now be running on `http://localhost:8000`.
+## Usage
+
+Once installed, you can access the web application in your browser by visiting `http://localhost:8000`. Ensure that both the Laravel backend and React frontend are running.
 
 - Login: 
     user: david@example
     pass: secret
 
-
-## Usage
-
-Once installed, you can access the web application in your browser by visiting `http://localhost:8000`. Ensure that both the Laravel backend and React frontend are running.
 
 ## Features
 
