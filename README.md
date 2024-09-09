@@ -35,9 +35,9 @@ Follow these steps to set up the project:
     cd your-repo-folder
     ```
 
-2. Set up your environment configuration:
+2. Set up your .env file is not necessary create a new one:
     ```bash
-    cp .env.example .env
+    .env
     ```
 
    Update the `.env` file with your database and application credentials.
@@ -73,6 +73,11 @@ Follow these steps to set up the project:
     ```
 
 The application should now be running on `http://localhost:8000`.
+
+- Login: 
+    user: david@example
+    pass: secret
+
 
 ## Usage
 
